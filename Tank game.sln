@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{17F7106F-00EB-251C-E4DA-1244CCED9880}") = "Tank game", "Assembly-CSharp-firstpass.csproj", "{35C7D932-F597-FF75-A77C-5517816B0A1D}"
+EndProject
+Project("{17F7106F-00EB-251C-E4DA-1244CCED9880}") = "Tank game", "Assembly-CSharp.csproj", "{DAFDE3E4-D47F-51F6-BD8C-A46D0F351572}"
+EndProject
+Project("{17F7106F-00EB-251C-E4DA-1244CCED9880}") = "Tank game", "Assembly-CSharp-Editor.csproj", "{968162AA-59A5-EFC6-FB64-FF55E3EEBC0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C7D932-F597-FF75-A77C-5517816B0A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C7D932-F597-FF75-A77C-5517816B0A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C7D932-F597-FF75-A77C-5517816B0A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C7D932-F597-FF75-A77C-5517816B0A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFDE3E4-D47F-51F6-BD8C-A46D0F351572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFDE3E4-D47F-51F6-BD8C-A46D0F351572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFDE3E4-D47F-51F6-BD8C-A46D0F351572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFDE3E4-D47F-51F6-BD8C-A46D0F351572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968162AA-59A5-EFC6-FB64-FF55E3EEBC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968162AA-59A5-EFC6-FB64-FF55E3EEBC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968162AA-59A5-EFC6-FB64-FF55E3EEBC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968162AA-59A5-EFC6-FB64-FF55E3EEBC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
